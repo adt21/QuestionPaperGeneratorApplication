@@ -1,0 +1,12 @@
+*****Instructions to run*****
+
+Run the driver.java file 
+
+
+
+
+
+
+
+NOTE:
+    This is only the UI. Connectivity of database is in progress

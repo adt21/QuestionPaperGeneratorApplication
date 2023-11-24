@@ -1,0 +1,14 @@
+*****Instructions to run*****
+
+1) You'll need an IDE with Java SDK installed in you device.
+2) Extract the zip folder and Import the project folder to your IDE.
+3) Run the driver class to execute the project.
+4) If you are a new user SignUp first, then Login.
+5) If you have already registered user, directly Login.
+6) Then proceed as per your need.
+
+7) Note: The generated pdf of your question paper can be found in the 'si' folder. Name of the pdf generated is 'QuestionPaper'
+
+
+
+
